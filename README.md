@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter and VueJS
+- 🌱 I’m currently learning ReactJS and VueJS
 - 📫 How to reach me: [Instagram](https://www.instagram.com/mrifandz/)
 ---
 ### My Github Statistic
